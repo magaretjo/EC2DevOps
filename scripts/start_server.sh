@@ -5,5 +5,6 @@
 
 cd /home/ubuntu/FirstNodeApp
 sudo npm install
+
 # pm2 stop index.js
 pm2 start index.js
