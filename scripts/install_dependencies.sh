@@ -2,7 +2,7 @@
 # sudo apt update -y
 
 # cd /home/ubuntu/FirstNodeApp
-sudo rm -rf node_modules
+# sudo rm -rf node_modules
 
 # get node into yum
 # curl --silent --location https://rpm.nodesource.com/setup_6.x | bash -
